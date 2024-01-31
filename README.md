@@ -3,7 +3,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License](https://img.shields.io/github/license/SVRECCO/MiGhetto-LSPD-BOT?style=for-the-badge)](https://github.com/SVRECCO/MiGhetto-LSPD-BOT/blob/main/MIT-LICENSE.txt)
+[![MIT License](https://img.shields.io/github/license/SVRECCO/MiGhetto-LSPD-BOT?style=for-the-badge)](https://github.com/SVRECCO/Music-Player/blob/main/MIT-LICENSE.txt)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
