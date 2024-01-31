@@ -39,13 +39,11 @@
     ·
     <a href="https://github.com/SVRECCO/MiGhetto-LSPD-BOT/issues">Request Feature</a>
   </p>
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built with
 - [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 - [![Discord.js](https://img.shields.io/badge/Discord.js-lightgrey?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/#/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 </div>
 
 ## About The Project
