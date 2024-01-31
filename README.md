@@ -67,7 +67,9 @@
 
 ## About The Project
 
-This project is developed with the objective of enhancing experiences within LSPD (Los Santos Police Department) communities on Discord. My MiGhetto LSPD BOT aims to streamline operations and communications within these communities. Key features include:
+This project is developed with the objective of enhancing experiences within LSPD (Los Santos Police Department) communities on Discord. My MiGhetto LSPD BOT aims to streamline operations and communications within these communities. 
+
+##Key features include:
 
 ### In-Game Time Tracking
 - Provides accurate tracking of in-game time to ensure synchronization of roleplay scenarios and operations.
