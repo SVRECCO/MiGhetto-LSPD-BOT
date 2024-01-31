@@ -33,7 +33,7 @@
     <a href="https://github.com/SVRECCO/MiGhetto-LSPD-BOT"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.youtube.com/watch?v=ZN0oBAHGCnY" target="_blank">View Demo</a>
+    <a href="=https://discord.gg/mgrppd" target="_blank">Join MiGhetto LSPD Discord</a>
     ·
     <a href="https://github.com/SVRECCO/MiGhetto-LSPD-BOT/issues">Report Bug</a>
     ·
