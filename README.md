@@ -70,8 +70,3 @@ Whether for managing daily tasks, facilitating training sessions, or enhancing t
 - [![Discord.js](https://img.shields.io/badge/Discord.js-lightgrey?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/#/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Getting Started
-To set up the MiGhetto LSPD BOT in your server, follow these steps:
-### Installation
-1. Clone the repository:
