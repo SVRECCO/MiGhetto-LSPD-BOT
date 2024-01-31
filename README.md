@@ -43,8 +43,11 @@
 </div>
 
 ### Built with
+- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 - [![Discord.js](https://img.shields.io/badge/Discord.js-lightgrey?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/#/)
+- ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
 
 ## About The Project
 
