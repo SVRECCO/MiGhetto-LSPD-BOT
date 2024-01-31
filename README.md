@@ -3,8 +3,21 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License](https://img.shields.io/github/license/SVRECCO/MiGhetto-LSPD-BOT?style=for-the-badge)](https://github.com/SVRECCO/MiGhetto-LSPD-BOT/blob/main/MIT-LICENSE.txt)
+[![MIT License](https://img.shields.io/github/license/SVRECCO/MiGhetto-LSPD-BOT?style=for-the-badge)](https://github.com/SVRECCO/MiGhetto-LSPD-BOT/blob/main/LICENSE)
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- Badges Links Update -->
+[contributors-shield]: https://img.shields.io/github/contributors/SVRECCO/MiGhetto-LSPD-BOT.svg?style=for-the-badge
+[contributors-url]: https://github.com/SVRECCO/MiGhetto-LSPD-BOT/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SVRECCO/MiGhetto-LSPD-BOT.svg?style=for-the-badge
+[forks-url]: https://github.com/SVRECCO/MiGhetto-LSPD-BOT/network/members
+[stars-shield]: https://img.shields.io/github/stars/SVRECCO/MiGhetto-LSPD-BOT.svg?style=for-the-badge
+[stars-url]: https://github.com/SVRECCO/MiGhetto-LSPD-BOT/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SVRECCO/MiGhetto-LSPD-BOT.svg?style=for-the-badge
+[issues-url]: https://github.com/SVRECCO/MiGhetto-LSPD-BOT/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/TheRealSethV
+
 
 <br />
 <div align="center">
