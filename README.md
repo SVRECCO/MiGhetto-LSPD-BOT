@@ -69,16 +69,16 @@
 
 This project is developed with the objective of enhancing experiences within LSPD (Los Santos Police Department) communities on Discord. My MiGhetto LSPD BOT aims to streamline operations and communications within these communities. 
 
-##Key features include:
+## Key features include:
 
 ### In-Game Time Tracking
-- Provides accurate tracking of in-game time to ensure synchronization of roleplay scenarios and operations.
+- Accurate tracking of in-game time.
 
 ### Statistical Logging
-- Automatically logs crucial statistics including arrests, raids, tickets, and robberies, offering a comprehensive overview of community activities.
+- Logs crucial statistics including arrests, raids, tickets, and robberies, offering a comprehensive overview of community activities.
 
 ### Data Analysis and Reporting
-- Aggregates and analyzes logged data, allowing communities to assess performance metrics and identify trends over time.
+- Analyzes logged data, allowing players to assess performance metrics.
 
 ### Customizable Logging Options
 - Offers customization for tracked and logged statistics, enabling the bot to meet the specific needs of each community.
@@ -86,10 +86,7 @@ This project is developed with the objective of enhancing experiences within LSP
 ### Seamless Discord Integration
 - Built with Discord.js for a stable and user-friendly experience, ensuring seamless integration with Discord for all community members.
 
-## Enhancing Roleplay Experiences
-
-The **MiGhetto LSPD BOT** is more than just a management tool; it's an indispensable asset for LSPD roleplay communities aiming to enrich their roleplay experience and streamline administrative duties. By focusing on the tracking, logging, and analysis of in-game activities, it serves as a pivotal resource for community leaders and members alike.
-Whether for managing daily tasks, facilitating training sessions, or enhancing the roleplay experience, the MiGhetto LSPD BOT provides a comprehensive solution for LSPD communities on Discord.
+The **MiGhetto LSPD BOT** is more than just a management tool; it's an indispensable asset for LSPD roleplay  aiming to enrich experience and streamline administrative duties. By focusing on the tracking, logging, and analysis of in-game activities, it serves as a great resource for community leaders and members.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
