@@ -3,10 +3,10 @@ const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
 const axios = require('axios');
 const moment = require('moment-timezone');
-const clientId = '1188669847991763094';
-const token = 'MTE4ODY2OTg0Nzk5MTc2MzA5NA.GpzO9d.H1P0DeyD8L8G6F_-WtWiTojf470raK0U-tq9cM';
-const roleIdToTag = '1093774727769772032';
-const guildId = '1076537982212911234';
+const clientId = 'CLIENT_ID';
+const token = 'TOKEN';
+const roleIdToTag = 'ADMIN_ROLE';
+const guildId = 'GUILD_ID';
 
 const headers = {
     Authorization: `Bot ${token}`,
